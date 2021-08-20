@@ -1,7 +1,7 @@
 - Hi, I’m Yunus Emre Karakuş
 - I'm interested in Back-end development. I'm working on Python, Django, Rest API, SQL, HTML5 and Bootstrap.
 - I’m learning new things per day per and applying that what I learned, I'm sharing with you on my github account.
-- U Contact with me:
+- Contact:
 
 - Linkedin: https://www.linkedin.com/in/yunus-emre-karakus/
 - E-mail: iletisim@yunusemrekarakus.com
