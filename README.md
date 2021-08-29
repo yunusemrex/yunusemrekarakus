@@ -1,14 +1,109 @@
-- Hi, I’m Yunus Emre Karakuş
-- I'm interested in Back-end development. I'm working on Python, Django, Rest API, SQL, HTML5 and Bootstrap.
-- I’m learning new things per day per and applying that what I learned, I'm sharing with you on my github account.
-- Contact:
+
+<h1 align="left" id="yunusemrekarakus-title">:wave: Hello there! I'm Yunus Emre Karakuş</h1>
+I'm interested in Back-end development. I'm working on Python, Django, Rest API, SQL, HTML5 and Bootstrap.
+
+ I’m learning new things per day per and applying that what I learned, I'm sharing with you on my github account.
+<br>
+
+<h2 align="left" id="yunus-emre-karakus">Favorite Techs</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+        <td align="center" width="96">
+      <a href="yunus-emre-karakus">
+        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+         </td>
+        <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML
+    </td>
+    </td>
+        <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+        <td align="center" width="96">
+      <a href="#yunus-emre-karakus" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+        <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+        <td align="center" width="96">
+      <a href="#yunus-emre-karakus" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+        <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td> 
+        </td>
+      <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td> 
+  <tr>
+   <td align="center" width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td> 
+   <td align="center"  width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+  </td>
+     <td align="center"  width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" width="48" height="48" alt="MsSQL"/>
+      </a>
+      <br>MsSQL
+  </td>
+      <td align="center"  width="96">
+      <a href="#yunus-emre-karakus">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+  </td>
+</table>
+<h2 align="left" id="yunus-emre-karakus">Contact:</h2>
 
 - Linkedin: https://www.linkedin.com/in/yunus-emre-karakus/
+
 - E-mail: iletisim@yunusemrekarakus.com
+
 - Web site: yunusemrekarakus.com
-
-
-<!---
-yunusemrekarakus/yunusemrekarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
